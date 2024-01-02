@@ -1,0 +1,5 @@
+[2024-01-02;12:29:40] [main] TRACE l.i.d.HelloSlf4J -- This is a trace log
+[2024-01-02;12:29:40] [main] DEBUG l.i.d.HelloSlf4J -- This is a debug log
+[2024-01-02;12:29:40] [main] INFO  l.i.d.HelloSlf4J -- This is an info log
+[2024-01-02;12:29:40] [main] WARN  l.i.d.HelloSlf4J -- This is a warning log
+[2024-01-02;12:29:40] [main] ERROR l.i.d.HelloSlf4J -- This is an error log
